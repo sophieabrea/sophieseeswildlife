@@ -16,4 +16,4 @@ Some other photos from Mt. Dana (who we now affectionately refer to as "our girl
 
 ![](image/mtdanaflowers.jpg){fig-align="center"}
 
-![At ThPeak!](image/mtdanapeak.jpg){fig-align="center"}
+![At the peak of Mt. Dana! You can see the beautiful Mono Lake back there too.](image/mtdanapeak.jpg){fig-align="center"}

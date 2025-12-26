@@ -1,7 +1,7 @@
 ---
 title: "Welcome To My Wildlife Blog"
 author: "Sophie Abrea"
-date: "2025-12-22"
+date: "2025-12-25"
 pinned: true 
 categories: [about]
 ---
