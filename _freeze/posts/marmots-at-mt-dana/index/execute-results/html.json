@@ -1,0 +1,15 @@
+{
+  "hash": "6544f27d2a62f8bf31fe509e41f2be00",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Marmots at Mt. Dana\"\nauthor: \"Sophie Abrea\"\ndate: \"2025-08-08\"\ncategories: [yosemite]\nimage: \"mtdanamarmot1.jpg\"\n---\n\nThis is a post with executable code.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

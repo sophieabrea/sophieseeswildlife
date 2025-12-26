@@ -1,0 +1,12 @@
+---
+title: "About"
+image: pic.jpg
+about:
+  template: jolla
+---
+
+My archive of wildlife encounters in college!
+
+![](profile.JPG){fig-align="center"}
+
+More to come soon...

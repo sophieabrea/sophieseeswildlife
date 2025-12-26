@@ -1,0 +1,11 @@
+---
+title: "Welcome To My Wildlife Blog"
+author: "Sophie Abrea"
+date: "2025-12-22"
+pinned: true 
+categories: [about]
+---
+
+Hello and welcome! This where I document all of the photos I take of the cool critters I encounter on the trail (and try to ID them, too).
+
+![Me!](author.jpg){fig-align="center"}

@@ -1,0 +1,19 @@
+---
+title: "Marmots at Mt. Dana"
+author: "Sophie Abrea"
+date: "2025-08-08"
+categories: [yosemite]
+image: "mtdanamarmot1.jpg"
+---
+
+Ran into a bunch of beautiful Yellow-Bellied marmots while hiking up to Mt. Dana! We did this hike at the beginning of August, and while this 13,000' doozy was definitely a challenging hike, the opportunity to see these silly rodents was well worth it.
+
+![Yellow-Bellied Marmots](image/mtdanamarmot1.jpg){fig-cap="Yellow Bellied Marmots" fig-align="center"}
+
+![Yellow Bellied Marmots](image/mtdanamarmot2.jpg){fig-cap="Yellow Bellied Marmots" fig-align="center"}
+
+Some other photos from Mt. Dana (who we now affectionately refer to as "our girl"). You get really personal after 5.4 miles and a 3000' elevation gain!
+
+![](image/mtdanaflowers.jpg){fig-align="center"}
+
+![At The Peak!](image/mtdanapeak.jpg){fig-align="center"}
