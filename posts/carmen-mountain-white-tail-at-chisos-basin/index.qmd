@@ -1,19 +1,21 @@
 ---
-title: "Common Side-Blotched Lizard at Dante's View"
+title: "Carmen Mountain White-Tail Deer at Chisos Basin"
 author: "Sophie Abrea"
-date: "2025-11-09"
-categories: [death valley]
-image: "sideblotched1.jpg"
+date: "2025-12-27"
+categories: [big bend]
+image: "carmenmountain.jpg"
 ---
 
-To the herpetologists of the world, I am really hoping I IDed this lizard correctly. I have not encountered many reptiles while out in nature, or at least not long enough to get a good photo. But to the best of my knowledge, we encountered this Common Side-blotched lizard *(Uta stansburiana)* while walking along the path at Dante's View in Death Valley.
+On the main day of our Big Bend trip, we hiked around the Chisos Mountains. This mountain range is located entirely within the boundaries of the park, and its extremely interesting to see the flora and fauna change as you transition from the adjacent Chihuahuan desert into the mountains.
 
-![Common Side-blotched lizard](image/sideblotched1.jpg){fig-align="center"}
+As we started the Lost Mine Trail in the morning, the trail head included lots of signage with warnings of Mountain Lion and Black Bear encounters. So, as we were hiking with my 8-year-old niece, I told her that if she saw an animal while on the trail, the first thing she should do is scream and make a lot of noise. This backfired on me, because as my niece turned a corner on the trail and was met face-to-face with a beautiful Carmen Mountain White-tail deer, she screeched so loudly and scared the ungulates into the brush. They must be pretty used to encountering humans on the trail though, because they actually stuck around and I managed to get a photo of the deer.
 
-![A little bit of eye-contact??](image/sideblotched2.jpg){fig-align="center"}
+![](carmenmountain.jpg){fig-align="center"}
 
-Dante's View right before sunset was breathtaking. This was my second year visiting Death Valley but our first time checking out this viewpoint. Hopefully we come back next year!
+The Carmen Mountain White-tail deer (*Odecoileus virginianus carminis*) are a subspecies of white-tail deer that are found in the Chisos Mountains and nearby Mexican ranges. Upon doing some research for this blog post, it seems they're highly coveted by hunters due to their rarity outside of the Chisos Mountains, which is their main habitat. If you look these guys up on Google, almost every image will be a hunter posing with a dead Carmen Mountain White-tail.
 
-![Overlooking Dante's View with my fun hat](image/dantesview.JPG){fig-align="center"}
+![](image/mexicanjay2.jpg)
 
-![Death Valley National Park with my lovely friends](image/dvsign.jpg){fig-align="center"}
+Throughout our hike, we also encountered a lot of Mexican Jays (*Aphelocoma wollweberi)*, which also make their homes in the Chisos Mountains within the park. They look really similar to the California Scrub Jay, which I featured in my last blog post from Point Reyes. Turns out, these birds are all part of the same genus *Aphelocoma*.
+
+![](image/mexicanjay1.jpg){fig-align="center"}
