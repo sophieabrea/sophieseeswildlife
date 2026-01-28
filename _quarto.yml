@@ -6,6 +6,8 @@ website:
   title: "Sophie Sees Wildlife"
   navbar:
     right:
+      - icon: house
+        href: index.qmd
       - about.qmd
       - icon: instagram
         href: https://www.instagram.com/sophieabrea/
