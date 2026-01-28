@@ -4,6 +4,8 @@ project:
 
 website:
   title: "Sophie Sees Wildlife"
+  site-url: https://sophieseeswildlife.com
+  description: An archive of my college wildlife sightings.
   navbar:
     right:
       - icon: house
