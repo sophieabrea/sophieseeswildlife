@@ -5,7 +5,8 @@ listing:
   sort: 
   - "weight asc"
   - "date desc"
-  type: grid 
+  type: grid
+  feed: true
   categories: true
   sort-ui: false
   filter-ui: false
