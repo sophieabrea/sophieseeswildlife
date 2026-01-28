@@ -3,6 +3,7 @@ title: "Carmen Mountain White-Tail Deer at Chisos Basin"
 author: "Sophie Abrea"
 date: "2025-12-27"
 categories: [big bend]
+weight: 10
 image: "carmenmountain.jpg"
 ---
 

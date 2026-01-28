@@ -3,6 +3,7 @@ title: "Marmots at Mt. Dana"
 author: "Sophie Abrea"
 date: "2025-08-08"
 categories: [yosemite]
+weight: 10
 image: "mtdanamarmot1.jpg"
 ---
 

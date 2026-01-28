@@ -3,6 +3,7 @@ title: "Common Side-Blotched Lizard at Dante's View"
 author: "Sophie Abrea"
 date: "2025-11-09"
 categories: [death valley]
+weight: 10
 image: "sideblotched1.jpg"
 ---
 

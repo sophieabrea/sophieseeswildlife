@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.8.25">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -34,14 +34,15 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-cc63fce9873912f1bbbccf05079cc9ea.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-ffa9a6279353761231ec249df0a7fdd3.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -113,7 +114,7 @@ const typesetMath = (el) => {
     var macros = [];
     for (var i = 0; i < mathElements.length; i++) {
       var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
         window.katex.render(texText.data, mathElements[i], {
           displayMode: mathElements[i].classList.contains('display'),
           throwOnError: false,
@@ -139,6 +140,8 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Sophie Sees Wildlife</span>
     </a>
@@ -201,37 +204,7 @@ window.Quarto = {
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="YmlnJTIwYmVuZA==" data-listing-date-sort="1766822400000" data-listing-file-modified-sort="1768608687978" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="304">
-<div class="thumbnail"><a href="./posts/carmen-mountain-white-tail-at-chisos-basin/index.html" class="no-external">
-
-<img loading="lazy" src="./posts/carmen-mountain-white-tail-at-chisos-basin/carmenmountain.jpg" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/carmen-mountain-white-tail-at-chisos-basin/index.html" class="no-external">Carmen Mountain White-Tail Deer at Chisos Basin</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('YmlnJTIwYmVuZA=='); return false;">big bend</div>
-
-</div>
-<div class="delink listing-description"><a href="./posts/carmen-mountain-white-tail-at-chisos-basin/index.html" class="no-external">
-On the main day of our Big Bend trip, we hiked around the Chisos Mountains. This mountain range is located entirely within the boundaries of the park, and its extremely…
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/carmen-mountain-white-tail-at-chisos-basin/index.html" class="no-external">
-<div class="listing-date">
-Dec 27, 2025
-</div>
-<div class="listing-author">
-Sophie Abrea
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="YWJvdXQ=" data-listing-date-sort="1766649600000" data-listing-file-modified-sort="1766722236706" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="28">
+<div class="quarto-post image-right" data-index="0" data-categories="YWJvdXQ=" data-listing-date-sort="1766649600000" data-listing-file-modified-sort="1769580685528" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="28">
 <div class="thumbnail"><a href="./posts/welcome/index.html" class="no-external">
 
 <p class="card-img-top"><img src="posts\welcome\author.jpg"  class="thumbnail-image card-img"/></p>
@@ -261,7 +234,37 @@ Sophie Abrea
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-categories="cG9pbnQlMjByZXllcw==" data-listing-date-sort="1765699200000" data-listing-file-modified-sort="1768608687243" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="344">
+<div class="quarto-post image-right" data-index="1" data-categories="YmlnJTIwYmVuZA==" data-listing-date-sort="1766822400000" data-listing-file-modified-sort="1769580685777" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="304">
+<div class="thumbnail"><a href="./posts/carmen-mountain-white-tail-at-chisos-basin/index.html" class="no-external">
+
+<img loading="lazy" src="./posts/carmen-mountain-white-tail-at-chisos-basin/carmenmountain.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/carmen-mountain-white-tail-at-chisos-basin/index.html" class="no-external">Carmen Mountain White-Tail Deer at Chisos Basin</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('YmlnJTIwYmVuZA=='); return false;">big bend</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/carmen-mountain-white-tail-at-chisos-basin/index.html" class="no-external">
+On the main day of our Big Bend trip, we hiked around the Chisos Mountains. This mountain range is located entirely within the boundaries of the park, and its extremely…
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/carmen-mountain-white-tail-at-chisos-basin/index.html" class="no-external">
+<div class="listing-date">
+Dec 27, 2025
+</div>
+<div class="listing-author">
+Sophie Abrea
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="2" data-categories="cG9pbnQlMjByZXllcw==" data-listing-date-sort="1765699200000" data-listing-file-modified-sort="1769580684926" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="344">
 <div class="thumbnail"><a href="./posts/tule-elk-at-tomales-point/index.html" class="no-external">
 
 <img loading="lazy" src="./posts/tule-elk-at-tomales-point/tuleelk1.jpg" class="thumbnail-image">
@@ -291,7 +294,7 @@ Sophie Abrea
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="3" data-categories="ZGVhdGglMjB2YWxsZXk=" data-listing-date-sort="1762675200000" data-listing-file-modified-sort="1766713886040" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="109">
+<div class="quarto-post image-right" data-index="3" data-categories="ZGVhdGglMjB2YWxsZXk=" data-listing-date-sort="1762675200000" data-listing-file-modified-sort="1769580685427" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="109">
 <div class="thumbnail"><a href="./posts/common-side-blotched-lizard-at-dantes-view/index.html" class="no-external">
 
 <img loading="lazy" src="./posts/common-side-blotched-lizard-at-dantes-view/sideblotched1.jpg" class="thumbnail-image">
@@ -321,7 +324,7 @@ Sophie Abrea
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="4" data-categories="eW9zZW1pdGU=" data-listing-date-sort="1754636400000" data-listing-file-modified-sort="1766721718596" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="96">
+<div class="quarto-post image-right" data-index="4" data-categories="eW9zZW1pdGU=" data-listing-date-sort="1754636400000" data-listing-file-modified-sort="1769580685236" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="96">
 <div class="thumbnail"><a href="./posts/marmots-at-mt-dana/index.html" class="no-external">
 
 <img loading="lazy" src="./posts/marmots-at-mt-dana/mtdanamarmot1.jpg" class="thumbnail-image">
@@ -405,13 +408,14 @@ Sophie Abrea
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy

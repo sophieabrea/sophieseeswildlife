@@ -3,8 +3,8 @@ title: "Sophie Sees Wildlife"
 listing:
   contents: posts
   sort: 
-  - date desc
-  - pinned desc
+  - "weight asc"
+  - "date desc"
   type: default
   categories: true
   sort-ui: false
